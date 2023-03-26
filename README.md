@@ -1,30 +1,34 @@
-# Frontend Mentor - Interactive rating component
 
-![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
+# Interactive rating component
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
-
-## The challenge
-
-Your challenge is to build out this interactive rating component and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Your users should be able to:
-
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Select and submit a number rating
-- See the "Thank you" card state after submitting a rating
+The interactive component allows the user to select and submit a number rating and see the 'Thank you' card after submitting. 
 
 
-## Personal comment
+## Demo
 
-- I used css variables
-- (View the optimal layout for the app depending on their device's screen size) -> not set yet
+https://anna8295.github.io/interactive-rating-component/
+
+
+## Tech Stack
+
+**Client:** HTML, CSS
+
+**Server:** JavaScript
+
+
+
+## Lessons Learned
+
+I practised the basics of JavaScript, handling user interaction and updating the DOM.
+
+
+## Features
+
+- optimal layout for the app depending on their device's screen size
+
+
+## Acknowledgements
+
+ - [The design and idea are taken from: frontendmentor.io](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+
+
