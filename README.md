@@ -16,15 +16,9 @@ https://anna8295.github.io/interactive-rating-component/
 **Server:** JavaScript
 
 
-
 ## Lessons Learned
 
 I practised the basics of JavaScript, handling user interaction and updating the DOM.
-
-
-## Features
-
-- optimal layout for the app depending on their device's screen size
 
 
 ## Acknowledgements
